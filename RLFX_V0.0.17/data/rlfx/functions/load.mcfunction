@@ -34,8 +34,8 @@ scoreboard objectives add rlfx_logout minecraft.custom:minecraft.leave_game
 
 # scoreboard objectives add Login dummy
 scoreboard objectives add rfx trigger "Change Effect"
-scoreboard objectives add stopmusic trigger "Stop MOTD Music"
-scoreboard objectives add loginmusic trigger "Toggle MOTD Login Music"
+scoreboard objectives add stopmusic trigger "Stop Music"
+scoreboard objectives add loginmusic trigger "Toggle Login Music"
 scoreboard objectives add loginrlfx trigger "Toggle Login FX"
 ##### scoreboard objectives add motd trigger "Random Message"
 scoreboard objectives add rlfx trigger "Infinite Random Effect"
