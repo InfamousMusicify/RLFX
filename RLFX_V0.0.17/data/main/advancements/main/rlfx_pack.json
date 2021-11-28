@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "RLFX",
+        "description": "Random Login Effects",
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/death",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
