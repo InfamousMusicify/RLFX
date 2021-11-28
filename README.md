@@ -1,2 +1,24 @@
-# RLFX
-Random Login Effects - Minecraft: Java Edition - Data Pack 
+# [RLFX]()  
+### Random Login Effects - Minecraft: Java Edition - Data Pack  
+
+__Get a Random Effect on Login!__   
+Visual and Musical effects upon logging into a world!  
+
+__Commands:__  
+  
+    /trigger rlfx  (Toggle Infinte Effects)  
+    /trigger rfx  (Cycle thru visual effects)  
+    /trigger loginrlfx  (toggle login effects)  
+    /trigger loginmusic  (toggle login music)  
+    /trigger stopmusic  (stop all playing sounds)  
+
+# [🔗Download🔗](https://github.com/InfamousMusicify/RLFX/archive/refs/heads/master.zip)
+
+[🔗 How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
+
+### This pack started as a branch of [TRMotd](https://github.com/InfamousMusicify/TRMotd).  
+I may or may not keep it up to date as it is technically deprecated.  and I do not use it (it be laggy), Its just cool.  
+I hope you Enjoy!  
+
+Cheers  
+-Infamous
