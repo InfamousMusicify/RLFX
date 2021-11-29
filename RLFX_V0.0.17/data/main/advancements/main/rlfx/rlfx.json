@@ -1,7 +1,7 @@
 {
     "display": {
         "title": "Commands:                                                    ",
-        "description": "/trigger rlfx  (toggle always on effects)\n/trigger stopmusic  (stops all music playing)\n/trigger loginmusic  (toggle login music)\n/trigger loginrlfx  (toggle login visuals)",
+        "description": "/trigger rlfx  (toggle always on effects)\n/trigger rfx  (cycle thru effects)\n/trigger stopmusic  (stops all music playing)\n/trigger loginmusic  (toggle login music)\n/trigger loginrlfx  (toggle login visuals)",
         "icon": {
             "item": "minecraft:name_tag"
         },
