@@ -1,5 +1,5 @@
 # rlfx:Tick
-schedule function rlfx:tick 1s
+# schedule function rlfx:tick 1s
 # Trigger Init
 function rlfx:utils/triggers
 # Commands: Basic
