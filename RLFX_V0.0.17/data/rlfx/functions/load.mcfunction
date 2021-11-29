@@ -26,4 +26,4 @@ scoreboard objectives add loginmusic trigger "Toggle Login Music"
 scoreboard objectives add loginrlfx trigger "Toggle Login FX"
 scoreboard objectives add rlfx trigger "Infinite Random Effect"
 
-schedule function rlfx:tick 1s
+# schedule function rlfx:tick 1s
