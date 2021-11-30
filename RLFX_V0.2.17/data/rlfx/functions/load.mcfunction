@@ -17,8 +17,9 @@ execute if score #seeded mcprng matches 0 run function mcprng:seed
 #TODO: set to the minecraft:custom thingy for logout
 # Join is 1st login,  Login is subsequnet
 scoreboard objectives add rlfx_join dummy "First Login tracker"
-scoreboard objectives add rlfx_login dummy "A login tracker"
+# scoreboard objectives add rlfx_login dummy "A login tracker"
 scoreboard objectives add rlfx_rand dummy "Track MCPRNG to player"
+scoreboard objectives add rlfx_count dummy "cooldown counter"
 scoreboard objectives add rlfx_logout minecraft.custom:minecraft.leave_game
 scoreboard objectives add rfx trigger "Change Effect"
 scoreboard objectives add stopmusic trigger "Stop Music"

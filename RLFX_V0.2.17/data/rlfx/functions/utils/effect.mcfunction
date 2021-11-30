@@ -1,6 +1,6 @@
 # rmt:utils/effect
-tag @s[scores={rlfx=2}] add Reffect
-execute unless entity @s[scores={rlfx=2}] run tag @s[scores={loginrlfx=0}] remove Reffect
+# tag @s[scores={rlfx=2}] add Reffect
+# execute unless entity @s[scores={rlfx=2}] run tag @s[scores={loginrlfx=0}] remove Reffect
 # Welcome Hearts
 execute at @s[scores={rlfx_rand=1}] run particle minecraft:heart ~ ~.65 ~ 0.1 .1 0.1 .01 2 force
 # Firework Trail
@@ -32,4 +32,6 @@ execute at @s[scores={rlfx_rand=11}] run particle minecraft:falling_water ~ ~2.4
 execute at @s[scores={rlfx_rand=12..}] run particle minecraft:composter ~ ~.85 ~ .5 .5 .5 .01 2 force
 # New effect
 
+# cooldown counter
+scoreboard players add @s rlfx_count 1
 # end
