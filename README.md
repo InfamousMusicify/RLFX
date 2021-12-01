@@ -12,6 +12,8 @@ __Commands:__
     /trigger loginmusic  (toggle login music)  
     /trigger stopmusic  (stop all playing sounds)  
 
+### Hit the advancements key to see in game info and help!
+
 # [🔗Download🔗](https://github.com/InfamousMusicify/RLFX/archive/refs/heads/master.zip)
 
 [🔗 How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)  
