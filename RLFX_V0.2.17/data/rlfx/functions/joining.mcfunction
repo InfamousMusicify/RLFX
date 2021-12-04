@@ -1,7 +1,7 @@
 #sets up data for the next login, do not edit without talking to me first plz
-# function mcprng:nextrand
-execute if entity @s[scores={rlfx_logout=1..}] run function mcprng:nextrand
-execute store result score @s rlfx_rand run scoreboard players get #randval mcprng
+# function rlprng:nextrand
+execute if entity @s[scores={rlfx_logout=1..}] run function rlprng:nextrand
+execute store result score @s rlfx_rand run scoreboard players get #valrand rlprng
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 tag @s[scores={loginrlfx=2}] add Reffect
 tag @s[scores={rlfx=2}] add Reffect

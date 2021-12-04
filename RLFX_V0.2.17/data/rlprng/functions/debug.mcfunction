@@ -7,8 +7,8 @@
 # scoreboard players set #maxrand mcprng 16
 
 # now call this to generate a new random number
-function mcprng:nextrand
+function rlprng:nextrand
 
 # the raw random number is stored in #random
 # the value in your specified range is stored in #randval
-tellraw @p {"text":"Next random number between 0 and 15 is ","extra":[{"score":{"name":"#randval","objective":"mcprng"}}]}
+# tellraw @p {"text":"Next random number between 0 and 15 is ","extra":[{"score":{"name":"#randval","objective":"mcprng"}}]}
