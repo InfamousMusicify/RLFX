@@ -18,7 +18,7 @@ __Commands:__
 
 [🔗 How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)  
 
-### This pack started as a branch of [TRMotd](https://github.com/InfamousMusicify/TRMotd).  
+### This pack started as a branch of [MOTD](https://github.com/InfamousMusicify/MOTD).  
 I may or may not keep it up to date as it is technically deprecated.  and I do not use it (it be laggy), Its just cool.  
 I hope you Enjoy!  
 
