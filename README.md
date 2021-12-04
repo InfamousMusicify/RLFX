@@ -14,7 +14,7 @@ __Commands:__
 
 ### Hit the advancements key to see in game info and help!
 
-# [🔗Download🔗](https://github.com/InfamousMusicify/RLFX/archive/refs/heads/master.zip)
+# [🔗Download🔗](https://github.com/InfamousMusicify/RLFX/archive/refs/heads/1.17.zip)
 
 [🔗 How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)  
 
