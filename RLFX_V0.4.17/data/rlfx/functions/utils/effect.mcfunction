@@ -16,7 +16,7 @@ execute at @s[scores={rlfx_rand=6}] run particle minecraft:dragon_breath ~ ~.75 
 # Timelord Regen Effect
 execute at @s[scores={rlfx_rand=7}] run particle minecraft:flame ~ ~.85 ~ .25 .25 .25 .01 2 force
 # Player Glint Cloack (Old Random Barrier Effect
-execute at @s[scores={rlfx_rand=8}] run particle minecraft:electric_spark ~ ~1.2 ~ .5 .5 .5 .001 1 force
+execute at @s[scores={rlfx_rand=8}] run particle minecraft:barrier ~ ~15 ~ 15 6 15 .01 8 force
 # Blaze Head # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 execute at @s[scores={rlfx_rand=9}] run particle minecraft:ash ~ ~1.2 ~ .3 .3 .3 .01 8 force
 execute at @s[scores={rlfx_rand=9}] run particle minecraft:flame ~ ~2.05 ~ .0005 .0005 .0005 .005 50 force
