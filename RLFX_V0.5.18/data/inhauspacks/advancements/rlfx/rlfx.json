@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": "RLFX Commands                                                                                    ",
+        "description": ["",
+
+            {"text":"/trigger rfx (cycle thru effects)","color":"green"},{"text":"\n"},
+            {"text":"/trigger rlfx (toggle inifite effects)","color":"green"},{"text":"\n"},
+            {"text":"/trigger loginrlfx (tgl login visuals)","color":"green"},{"text":"\n"},
+            {"text":"/trigger loginmusic (tgl login music)","color":"green"},{"text":"\n"},
+            {"text":"/trigger stopmusic (stops all music)","color":"green"}
+
+        ],
+        "icon": {
+            "item": "minecraft:warped_roots"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "inhauspacks:rlfx_pack",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
