@@ -1,15 +1,19 @@
 # mcprng:load
 scoreboard objectives add rlprng dummy
+
 scoreboard players set #mcon rlprng 134456
 scoreboard players set #acon rlprng 8121
 scoreboard players set #ccon rlprng 28411
+
 scoreboard players set #retemp rlprng 0
 scoreboard players set #gegone rlprng -1
 scoreboard players set #valued rlprng 0
+
 #OLD - scoreboard players set #maxrand 0
 #this line includes your max msgs value
 scoreboard players set #randmax rlprng 20
 scoreboard players set #valrand rlprng 0
+
 # seed the generator, or just keep the last value in #random if already seeded
 execute store result score #reseed rlprng run scoreboard players get #rand mcprng
 execute if score #reseed rlprng matches 0 run function rlprng:seed

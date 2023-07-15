@@ -5,7 +5,7 @@ function rlfx:utils/triggers
 # Commands: Basic
 function rlfx:utils/cmds
 # Main Functions
-#   run message of the day as old player
+#   run rlfx as old player
 execute as @a[tag=rlfx_join,scores={rlfx_logout=1..}] run function rlfx:joining
 #   run player sound/visuals as old player
 execute as @a[tag=Reffect] run function rlfx:utils/effect

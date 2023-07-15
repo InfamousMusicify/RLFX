@@ -1,4 +1,5 @@
 # rmt:utils/effect
+
 # tag @s[scores={rlfx=2}] add Reffect
 # execute unless entity @s[scores={rlfx=2}] run tag @s[scores={loginrlfx=0}] remove Reffect
 # Welcome Hearts
