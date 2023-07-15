@@ -1,5 +1,5 @@
 #
-say nextrand
+
 # rlprng:nextrand
 
 # (ax + c) % m
