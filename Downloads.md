@@ -6,7 +6,7 @@
 ### [🔗1.19.4](https://github.com/InfamousMusicify/RLFX/releases/download/1.19.4/RLFX_V0.5.0-1.19.4.zip)    
 ### [🔗1.19+](https://github.com/InfamousMusicify/RLFX/releases/download/1.19/RLFX_V0.5.0-1.19.zip)  
 
-Old or Untested Below:
+Old or Untested Below: Backports coming soon: (check archive for older versions)
 ### [🔗1.18.2]() 
 ### [🔗1.18+](https://github.com/InfamousMusicify/RLFX/releases/download/Archive/RLFX_V0.5.18.zip)
      
